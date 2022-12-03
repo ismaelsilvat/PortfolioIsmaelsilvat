@@ -663,7 +663,7 @@ id: "22",
       backgroundColor: "purple",
       name: "Portfólio 2021",
       img: "08E9C619-7292-4AEB-9ABE-7B8ABFAFAFA0.png",
-      url: "portfolioismael.netlify.app",
+      url: "https://portfolioismael.netlify.app",
       description:
         "Portfólio 2021.",
     },
