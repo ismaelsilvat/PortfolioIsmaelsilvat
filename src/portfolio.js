@@ -658,7 +658,7 @@ const choosedProjects = {
       description:
         "Realizar a produção de um arte tematizada em Pop Art ou Arte Urbana.",
     },
-
+{
 id: "22",
       backgroundColor: "purple",
       name: "Portfólio 2021",
