@@ -12,7 +12,7 @@ export default function Main(propss) {
   if (settings.isSplash) {
     return (
       <>
-        <Router>
+        <Router basename="/">
           <Routes>
             <Route
               path={"/"}
@@ -61,7 +61,7 @@ export default function Main(propss) {
   } else {
     return (
       <>
-        <Router>
+        <Router basename="/">
           <Routes>
             <Route
               element={<Home theme={propss.theme} setTheme={propss.setTheme} />}
