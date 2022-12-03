@@ -4,7 +4,7 @@
   "homepage": "http://ismaelsilvat.github.io/PortfolioIsmaelsilvat",
   "version": "1.0.0",
   "scripts": {
-    "build": "react-scripts build",
+    "build": "npm install --legacy-peer-deps && react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b gh-pages -d build",
     "eject": "react-scripts eject",
