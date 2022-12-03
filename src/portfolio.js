@@ -658,6 +658,16 @@ const choosedProjects = {
       description:
         "Realizar a produção de um arte tematizada em Pop Art ou Arte Urbana.",
     },
+
+id: "22",
+      backgroundColor: "purple",
+      name: "Portfólio 2021",
+      img: "portfolio2021.jpg",
+      url: "portfolioismael.netlify.app",
+      description:
+        "Portfólio 2021.",
+    },
+
   ],
 };
 
