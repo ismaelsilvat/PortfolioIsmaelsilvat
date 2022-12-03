@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "personalPortfolio",
-  "homepage": "https://ismaelsilvat.github.io/PortfolioIsmaelsilvat",
+  "homepage": "http://ismaelsilvat.github.io/PortfolioIsmaelsilvat",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
