@@ -16,7 +16,6 @@ export default function Main(propss) {
           <Routes>
             <Route
               path={"/"}
-              exact
               element={
                 <Splash theme={propss.theme} setTheme={propss.setTheme} />
               }
@@ -67,7 +66,6 @@ export default function Main(propss) {
             <Route
               element={<Home theme={propss.theme} setTheme={propss.setTheme} />}
               path={"/"}
-              exact
             />
             <Route
               element={<Home theme={propss.theme} setTheme={propss.setTheme} />}
